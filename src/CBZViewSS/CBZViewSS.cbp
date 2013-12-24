@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CBZViewSS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CBZViewSS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="/home/zno/ss_no3/testbook.cbz" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-pg" />
+					<Add option="-g" />
+					<Add option="-Dx86" />
+					<Add directory="/usr/include/SDL_stretch" />
+				</Compiler>
+				<Linker>
+					<Add option="-pg" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CBZViewSS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-Dx86" />
+					<Add directory="/usr/include/SDL_stretch" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="dingux_release">
+				<Option output="bin/dingux_release/CBZViewSS" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="mipsellinux_compiler" />
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-O3" />
+			<Add option="-Wall" />
+			<Add option="`sdl-config --cflags` `-ffast-math`" />
+		</Compiler>
+		<Linker>
+			<Add option="`sdl-config --libs`" />
+			<Add library="libSDL_image" />
+		</Linker>
+		<Unit filename="CPageHolder.cpp" />
+		<Unit filename="CPageHolder.h" />
+		<Unit filename="CViewPort.cpp" />
+		<Unit filename="CViewPort.h" />
+		<Unit filename="SDL_stretch_.h" />
+		<Unit filename="Sprig/SPG_extended.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Sprig/SPG_misc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Sprig/SPG_polygon.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Sprig/SPG_primitives.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Sprig/SPG_rotation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Sprig/SPG_surface.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Sprig/sprig.h" />
+		<Unit filename="Sprig/sprig_common.h" />
+		<Unit filename="Sprig/sprig_inline.h" />
+		<Unit filename="cb.bmp" />
+		<Unit filename="cbholder.cpp" />
+		<Unit filename="cbholder.h" />
+		<Unit filename="cbzholder.cpp" />
+		<Unit filename="cbzholder.h" />
+		<Unit filename="defines.h" />
+		<Unit filename="dingoo.h" />
+		<Unit filename="ioapi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ioapi.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="unzip.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="unzip.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

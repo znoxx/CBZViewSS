@@ -1,0 +1,669 @@
+# depslib dependency file v1.0
+1289916618 source:/home/zno/_Work/CBZViewSS/CPageHolder.cpp
+	"CPageHolder.h"
+	"defines.h"
+	"Sprig/sprig.h"
+
+1289902877 /home/zno/_Work/CBZViewSS/CPageHolder.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL.h>
+	<SDL_image.h>
+	"CViewPort.h"
+
+1248940735 /usr/include/SDL/SDL_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1247825455 /usr/include/SDL/SDL_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1247825454 /usr/include/SDL/SDL_platform.h
+
+1247825454 /usr/include/SDL/begin_code.h
+
+1247825454 /usr/include/SDL/close_code.h
+
+1247825454 /usr/include/SDL/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_keysym.h
+
+1247825454 /usr/include/SDL/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1247825454 /usr/include/SDL/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1247825454 /usr/include/SDL/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1289825309 /home/zno/_Work/CBZViewSS/defines.h
+	"dingoo.h"
+
+1289911008 source:/home/zno/_Work/CBZViewSS/main.cpp
+	<cstdlib>
+	<iostream>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL.h>
+	<SDL_image.h>
+	"defines.h"
+	"CPageHolder.h"
+	"unzip.h"
+	"cbzholder.h"
+
+1288092971 source:/home/zno/_Work/CBZViewSS/CViewPort.cpp
+	"CViewPort.h"
+	"defines.h"
+
+1288273672 /home/zno/_Work/CBZViewSS/CViewPort.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1241471171 /usr/include/SDL/SDL_rotozoom.h
+	<math.h>
+	"SDL.h"
+
+1262590284 source:/home/zno/_Work/CBZViewSS/ioapi.c
+	"ioapi.h"
+
+1266199180 /home/zno/_Work/CBZViewSS/ioapi.h
+	<stdio.h>
+	<stdlib.h>
+	"zlib.h"
+	<stdint.h>
+	"mz64conf.h"
+	"stdint.h"
+
+1266199180 source:/home/zno/_Work/CBZViewSS/unzip.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"zlib.h"
+	"unzip.h"
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	"crypt.h"
+
+1266199102 /home/zno/_Work/CBZViewSS/unzip.h
+	"zlib.h"
+	"ioapi.h"
+	"bzlib.h"
+
+1289903967 source:/home/zno/_Work/CBZViewSS/cbholder.cpp
+	"cbholder.h"
+	<stdio.h>
+
+1289916618 /home/zno/_Work/CBZViewSS/cbholder.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<string>
+	<stdio.h>
+
+1289909528 source:/home/zno/_Work/CBZViewSS/cbzholder.cpp
+	<cstdio>
+	<iostream>
+	"cbzholder.h"
+	"unzip.h"
+
+1289902944 /home/zno/_Work/CBZViewSS/cbzholder.h
+	"cbholder.h"
+	"unzip.h"
+
+1289574410 /usr/local/include/SDL_stretch/SDL_stretch.h
+	"SDL_video.h"
+	<SDL/SDL_video.h>
+
+1241306717 /usr/include/SDL_stretch/SDL_stretch.h
+	"SDL_video.h"
+	<SDL/SDL_video.h>
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_platform.h
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/begin_code.h
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/close_code.h
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_keysym.h
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256166997 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1256167133 /opt/mipsel-linux-uclibc/usr/include/SDL/SDL_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1289809247 /home/zno/_Work/CBZViewSS/SDL_stretch_.h
+	"SDL_video.h"
+	<SDL/SDL_video.h>
+
+1259319015 source:/home/zno/_Work/CBZViewSS/SPG_surface.c
+	"sprig.h"
+	"sprig_common.h"
+	<math.h>
+	<string.h>
+	<stdarg.h>
+
+1259319785 /home/zno/_Work/CBZViewSS/sprig.h
+	"SDL.h"
+	"sprig_inline.h"
+
+1226170932 /home/zno/_Work/CBZViewSS/sprig_inline.h
+
+1224521647 /home/zno/_Work/CBZViewSS/sprig_common.h
+
+1289822188 source:/home/zno/_Work/CBZViewSS/SPG_polygon.c
+	"sprig.h"
+	"sprig_common.h"
+	"math.h"
+
+1259319785 /home/zno/_Work/CBZViewSS/Sprig/sprig.h
+	"SDL.h"
+	"sprig_inline.h"
+
+1226170932 /home/zno/_Work/CBZViewSS/Sprig/sprig_inline.h
+
+1222449610 source:/home/zno/_Work/CBZViewSS/Sprig/SPG_extended.c
+	"sprig.h"
+
+1224950469 source:/home/zno/_Work/CBZViewSS/Sprig/SPG_misc.c
+	"sprig.h"
+
+1226163578 source:/home/zno/_Work/CBZViewSS/Sprig/SPG_polygon.c
+	"sprig.h"
+	"sprig_common.h"
+	"math.h"
+
+1224521647 /home/zno/_Work/CBZViewSS/Sprig/sprig_common.h
+
+1226176198 source:/home/zno/_Work/CBZViewSS/Sprig/SPG_primitives.c
+	"sprig.h"
+	"sprig_common.h"
+	<math.h>
+	<string.h>
+	<stdarg.h>
+	<stdlib.h>
+
+1226168313 source:/home/zno/_Work/CBZViewSS/Sprig/SPG_rotation.c
+	"sprig.h"
+	"sprig_common.h"
+	<math.h>
+
+1259319015 source:/home/zno/_Work/CBZViewSS/Sprig/SPG_surface.c
+	"sprig.h"
+	"sprig_common.h"
+	<math.h>
+	<string.h>
+	<stdarg.h>
+
+1289823849 /home/zno/_Work/CBZViewSS/dingoo.h
+
+1289916618 source:/home/zno/_Work/COMIC_VIEWER/CBZViewSS/CPageHolder.cpp
+	"CPageHolder.h"
+	"defines.h"
+	"Sprig/sprig.h"
+
+1289902877 /home/zno/_Work/COMIC_VIEWER/CBZViewSS/CPageHolder.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL.h>
+	<SDL_image.h>
+	"CViewPort.h"
+
+1288273672 /home/zno/_Work/COMIC_VIEWER/CBZViewSS/CViewPort.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1309178421 /home/zno/_Work/COMIC_VIEWER/CBZViewSS/defines.h
+	"dingoo.h"
+
+1289823849 /home/zno/_Work/COMIC_VIEWER/CBZViewSS/dingoo.h
+
+1259319785 /home/zno/_Work/COMIC_VIEWER/CBZViewSS/Sprig/sprig.h
+	"SDL.h"
+	"sprig_inline.h"
+
+1226170932 /home/zno/_Work/COMIC_VIEWER/CBZViewSS/Sprig/sprig_inline.h
+
+1288092971 source:/home/zno/_Work/COMIC_VIEWER/CBZViewSS/CViewPort.cpp
+	"CViewPort.h"
+	"defines.h"
+
+1222449610 source:/home/zno/_Work/COMIC_VIEWER/CBZViewSS/Sprig/SPG_extended.c
+	"sprig.h"
+
+1224950469 source:/home/zno/_Work/COMIC_VIEWER/CBZViewSS/Sprig/SPG_misc.c
+	"sprig.h"
+
+1226163578 source:/home/zno/_Work/COMIC_VIEWER/CBZViewSS/Sprig/SPG_polygon.c
+	"sprig.h"
+	"sprig_common.h"
+	"math.h"
+
+1224521647 /home/zno/_Work/COMIC_VIEWER/CBZViewSS/Sprig/sprig_common.h
+
+1226176198 source:/home/zno/_Work/COMIC_VIEWER/CBZViewSS/Sprig/SPG_primitives.c
+	"sprig.h"
+	"sprig_common.h"
+	<math.h>
+	<string.h>
+	<stdarg.h>
+	<stdlib.h>
+
+1226168313 source:/home/zno/_Work/COMIC_VIEWER/CBZViewSS/Sprig/SPG_rotation.c
+	"sprig.h"
+	"sprig_common.h"
+	<math.h>
+
+1259319015 source:/home/zno/_Work/COMIC_VIEWER/CBZViewSS/Sprig/SPG_surface.c
+	"sprig.h"
+	"sprig_common.h"
+	<math.h>
+	<string.h>
+	<stdarg.h>
+
+1289903967 source:/home/zno/_Work/COMIC_VIEWER/CBZViewSS/cbholder.cpp
+	"cbholder.h"
+	<stdio.h>
+
+1289916618 /home/zno/_Work/COMIC_VIEWER/CBZViewSS/cbholder.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<string>
+	<stdio.h>
+
+1289909528 source:/home/zno/_Work/COMIC_VIEWER/CBZViewSS/cbzholder.cpp
+	<cstdio>
+	<iostream>
+	"cbzholder.h"
+	"unzip.h"
+
+1289902944 /home/zno/_Work/COMIC_VIEWER/CBZViewSS/cbzholder.h
+	"cbholder.h"
+	"unzip.h"
+
+1266199102 /home/zno/_Work/COMIC_VIEWER/CBZViewSS/unzip.h
+	"zlib.h"
+	"ioapi.h"
+	"bzlib.h"
+
+1266199180 /home/zno/_Work/COMIC_VIEWER/CBZViewSS/ioapi.h
+	<stdio.h>
+	<stdlib.h>
+	"zlib.h"
+	<stdint.h>
+	"mz64conf.h"
+	"stdint.h"
+
+1262590284 source:/home/zno/_Work/COMIC_VIEWER/CBZViewSS/ioapi.c
+	"ioapi.h"
+
+1309179054 source:/home/zno/_Work/COMIC_VIEWER/CBZViewSS/main.cpp
+	<cstdlib>
+	<iostream>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL.h>
+	<SDL_image.h>
+	"defines.h"
+	"CPageHolder.h"
+	"unzip.h"
+	"cbzholder.h"
+
+1266199180 source:/home/zno/_Work/COMIC_VIEWER/CBZViewSS/unzip.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"zlib.h"
+	"unzip.h"
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	"crypt.h"
+

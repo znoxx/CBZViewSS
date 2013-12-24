@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="CPageHolder.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="374" topLine="0" />
+	</File>
+	<File name="CPageHolder.h" open="1" top="0" tabpos="1">
+		<Cursor position="156" topLine="0" />
+	</File>
+	<File name="CViewPort.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="147" topLine="0" />
+	</File>
+	<File name="CViewPort.h" open="1" top="0" tabpos="4">
+		<Cursor position="468" topLine="0" />
+	</File>
+	<File name="SDL_stretch_.h" open="0" top="0" tabpos="0">
+		<Cursor position="2925" topLine="45" />
+	</File>
+	<File name="cbholder.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="283" topLine="0" />
+	</File>
+	<File name="cbholder.h" open="1" top="0" tabpos="6">
+		<Cursor position="282" topLine="0" />
+	</File>
+	<File name="cbzholder.cpp" open="1" top="1" tabpos="9">
+		<Cursor position="4412" topLine="39" />
+	</File>
+	<File name="cbzholder.h" open="1" top="0" tabpos="8">
+		<Cursor position="479" topLine="0" />
+	</File>
+	<File name="defines.h" open="1" top="0" tabpos="3">
+		<Cursor position="250" topLine="0" />
+	</File>
+	<File name="dingoo.h" open="1" top="0" tabpos="10">
+		<Cursor position="63" topLine="0" />
+	</File>
+	<File name="ioapi.c" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="168" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="8228" topLine="47" />
+	</File>
+	<File name="unzip.c" open="0" top="0" tabpos="8">
+		<Cursor position="38235" topLine="1104" />
+	</File>
+	<File name="unzip.h" open="1" top="0" tabpos="12">
+		<Cursor position="14572" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
